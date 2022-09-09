@@ -18,6 +18,13 @@ My name is Channacy (cha-nan-cee) and I am a sophmore at Drexel University and m
 -  🎮 Fun Fact: I used to have a Youtube channel where I uploaded gaming videos. 
 
 ---
+💻 Languages, Tools, and Frameworks
+
+<p float="left">
+<img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+</p>
+
+---
  🤝 **Connect with Me!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/channacy-un/)
