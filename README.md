@@ -9,7 +9,7 @@ My name is Channacy (cha-nan-cee) and I am a sophmore at Drexel University and m
 
 ---
 
-😇 **Some fun facts** 
+😇 **A Quick Intro** 
 
 -  📱 I am currently working at Drexel's IS4H Lab with their research team. 
 -  👩🏻‍💻 I am learning React and IOS development. 
