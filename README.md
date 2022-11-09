@@ -14,7 +14,7 @@ My name is Channacy (cha-nan-cee) and I am a sophmore at Drexel University and m
 -  📱 I am currently working at Drexel's IS4H Lab with their research team. 
 -  👩🏻‍💻 I am learning React and IOS development. 
 -  🤖 I look forward to working at a co-op that can challenge and help me grow as a software developer.
--  🤺 Aside from coding, I love learning! I enjoy reading psychology and poetry, playing guitar, listening to all kinds of music, and I am planning to learn how to fence!
+-  🤓 Aside from coding, I love learning! I enjoy reading psychology and poetry, playing guitar, listening to all kinds of music, particularly rap.
 -  🎮 Fun Fact: I used to have a Youtube channel where I uploaded gaming videos. 
 
 ---
