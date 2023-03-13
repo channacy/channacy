@@ -11,7 +11,7 @@ My name is Channacy (cha-nan-cee) and I am an undergraduate sophmore at Drexel U
 
 😇 **A Quick Intro** 
 
--  👩🏻‍💻 I am involved in multiple related areas of research in 3 research labs at Drexel: IS4H, H2 Design Lab, GLIDE lab where I work on a trauma resuscitation checklist app, authoring a future research paper with the intent to learn best practices of online peer youth among youth via survey and machine learning findings, and lastly focusing on future work of Epistematic Network Analysis on data related to classroom learning and projective reflection.
+-  👩🏻‍💻 I am involved in multiple related areas of research in 3 research labs at Drexel: IS4H, H2 Design Lab, GLIDE lab where I work on a trauma resuscitation checklist app, co-authoring a future published research paper with the intent to learn best practices of online peer youth among youth via survey and machine learning findings, and lastly focusing on future work of Epistematic Network Analysis on data related to classroom learning and projective reflection.
 - 🏫 I am heavily involved in activities outside learning! I am the UX/UI lead of HACK4IMPACT, marketing chair/newsletter manager of WiCs (Women in Computing Society), and an upcoming founder/president of the GWC(Girls Who Code) - Drexel College Loop.
 ---
 💻 Languages, Tools, and Frameworks
