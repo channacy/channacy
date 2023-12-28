@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World;print(%22Welcome+to+my+page%22))](https://git.io/typing-svg)
 
 ---
-My name is Channacy (cha-nan-cee) and I am an ** undergraduate pre-junior** at Drexel University **majoring in computer science**. I started coding at 16 and since then have been keen on developing and expanding my knowledge of computer science through independent learning and in classes. My main interests cover a broad range of web and mobile app development, AI, and cybersecurity. Currently, I am working on an NLP project for text analysis. 
+My name is Channacy (cha-nan-cee) and I am an **undergraduate pre-junior** at Drexel University **majoring in computer science**. I started coding at 16 and since then have been keen on developing and expanding my knowledge of computer science through independent learning and in classes. My main interests cover a broad range of web and mobile app development, AI, and cybersecurity. Currently, I am working on an NLP project for text analysis. 
 
 ---
 
