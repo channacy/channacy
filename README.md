@@ -11,8 +11,8 @@ My name is Channacy (cha-nan-cee) and I am an undergraduate pre-junior at Drexel
 
 😇 **A Quick Intro** 
 
--  👩🏻‍💻 I am involved in multiple related areas of research in 3 research labs at Drexel: IS4H, H2 Design Lab, GLIDE lab where I work on a trauma resuscitation checklist app, co-authoring a future published research paper with the intent to learn best practices of online peer youth among youth via survey and machine learning findings, and lastly focusing on future work of Epistematic Network Analysis on data related to classroom learning and projective reflection.
-- 🏫 I am heavily involved in activities outside learning! I am the UX/UI lead of HACK4IMPACT, marketing chair/newsletter manager of WiCs (Women in Computing Society), and an upcoming founder/president of the GWC(Girls Who Code) - Drexel College Loop.
+-  👩🏻‍💻 I am involved in multiple related areas of research in 3 research labs at Drexel: IS4H, H2 Design Lab, GLIDE lab where I focused on the intersection of informatics, health, social media, and learning. So far, I had a wide breath of exposure to various fields but I am hoping to narrow down my interests towards data science and analytics. 
+- 🏫 I am heavily involved in activities outside learning! I am the current vice president of WiCS, HACK4IMPACT and event planning lead for Drexel CHI as well as upcoming founder/president of the GWC(Girls Who Code) - Drexel College Loop.. Peviously, I served as UX/UI lead of HACK4IMPACT, marketing chair/newsletter manager of WiCs (Women in Computing Society). I believe the college experience extends itself outside classes and giving back towards the community is part of my identity :) 
 ---
 💻 Languages, Tools, and Frameworks
 
