@@ -15,7 +15,7 @@
 
 💬 Ask me about **Node.js, React, MongoDB... or anything tech-related**
 
-⚡ Fun website with mini activities**https://neal.fun/**
+⚡ Fun fact: **Minsky and Papert show that a perceptron can't solve the XOR problem. This contributed to the first AI winter, resulting in funding cuts for neural networks.**
 
  </div>
  
