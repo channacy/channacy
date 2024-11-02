@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a web scraper for tech opportunities/events**
+ 🔭 I’m currently building **a web scraper for tech opportunities/events**
  
- 🌱 I’m currently learning **Golang, AI, Concurrent Programming with C++**
+ 🌱 I’m learning **Golang, AI, Concurrent Programming with C++**
 
 💬 Ask me about **Node.js, React, MongoDB... or anything**
 
