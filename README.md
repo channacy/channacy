@@ -13,9 +13,9 @@
  
  🌱 I’m learning **Golang, AI, Concurrent Programming with C++**
 
-💬 Ask me about **Node.js, React, MongoDB... or anything**
+💬 Ask me about **Node.js, React, MongoDB... or anything tech-related**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun website with mini activities**https://neal.fun/**
 
  </div>
  
