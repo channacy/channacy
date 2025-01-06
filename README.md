@@ -47,4 +47,5 @@
 - Haskell Metacircular Evalulator
 - Python Q-Learning Algorithm in a Grid World
 - Python Sliding Brick Puzzle Solver
+- Journey to the Dark Side of the Moon (8th Wall, HTML, CSS, JavaScript, React)
 
