@@ -2,14 +2,14 @@
 # About
 
 - 👋 Hey, I am Channacy (cha-nan-cee)
-- 📜 View my [resume]('https://docs.google.com/document/d/1ng0Jm6Bq8qTJhxZ_Rml_KdtWcQ6mp6AnGsl27YqUn2Y/edit?usp=sharing')
+- 📜 View my [resume](https://docs.google.com/document/d/1ng0Jm6Bq8qTJhxZ_Rml_KdtWcQ6mp6AnGsl27YqUn2Y/edit?usp=sharing)
 - 🏫 Currently at Drexel University double majoring in computer science and mathematics (Graduation: June 2026)
 - 💻 Started coding in high school and continuing to explore web technologies and other areas of technology each day 
 - 📖 Other hobbies include reading, chess, graphic design, cooking
 - 😆 Fun Fact: I presented a data science project to Karlie Kloss once!
 
 # Web Apps
-- [Online Python IDE]('https://github.com/channacy/Python-IDE') (Django, Python, HTML, CSS, JavaScript, CodeMirror)
+- [Online Python IDE](https://github.com/channacy/Python-IDE) (Django, Python, HTML, CSS, JavaScript, CodeMirror)
 - [Surreal Cereal]('https://github.com/channacy/Surreal-Cereal') (Sveltekit, GPT API, JavaScript)
 - [Chronos]('https://github.com/channacy/Chronos') (Next.JS, TypeScript, PostgreSQL, Prisma, Vercel, TailwindCSS)
 - [FlashCards with Data Structures]('https://github.com/channacy/web102_week2') (React, JavaScript)
@@ -45,7 +45,3 @@
 - Java Banking App 
 - Java Student Survey System
 - Haskell Metacircular Evalulator
-
-
-
-
