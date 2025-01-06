@@ -17,7 +17,7 @@
 - [UniQuely](https://github.com/channacy/idm364-cu62) (SvelteKit, TypeScript, DaisyUI)
 - [Sage.IO](https://github.com/channacy/Sage.io) (taipy, CanvasAPI)
 - [CLICK](https://github.com/channacy/CLICK) (JavaScript, MongoDB, Express.JS, Node.js, React)
-- [Dota 2 Team Builder](https://github.com/channacy/AND102-Unit5Project) (JavaScript, React, Supabase)
+- [Dota 2 Team Builder]([https://github.com/channacy/AND102-Unit5Project](https://github.com/channacy/WEB102_Week7) (JavaScript, React, Supabase)
 
 # 📱 Mobile Apps
 - [BitFit](https://github.com/channacy/AND102-Unit5Project) (Kotlin, Compose, Room)
