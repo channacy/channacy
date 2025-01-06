@@ -45,3 +45,6 @@
 - Java Banking App 
 - Java Student Survey System
 - Haskell Metacircular Evalulator
+- Python Q-Learning Algorithm in a Grid World
+- Python Sliding Brick Puzzle Solver
+
