@@ -29,8 +29,8 @@
 - [Taylor Swift Lyrics Analysis](https://github.com/channacy/Taylor-Swift-Lyrics-Analysis) (nltk, matplotlib, seaborn, pandas)
 
 # Discord Bots
-- [Did You Know?](https://github.com/channacy/Did-You-Know-Bot)
-- [Tech Opportunity Finder](https://github.com/channacy/Tech-Opportunity-Finder)
+- [Did You Know?](https://github.com/channacy/Did-You-Know-Bot) (Golang)
+- [Tech Opportunity Finder](https://github.com/channacy/Tech-Opportunity-Finder) (Golang)
 
 
 # Games
